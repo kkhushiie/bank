@@ -1,0 +1,39 @@
+p{
+    font-size: 35px;
+}
+h1 span{
+    text-align: center;
+    font-size: 16px;
+}
+section{
+    width: 100%;
+}
+#ss{
+    margin-bottom: 5px;
+}
+.btn-shine {
+    position: absolute;
+    top: 72%;
+}
+ul{
+    padding-left: 51px;
+        margin-left: 6px;
+}
+nav .menuItems {
+    list-style: none;
+    display: inline;
+}
+nav{
+        margin: -41px;
+        padding: 21px;
+        flex-wrap: wrap;
+        border-radius: 0px;
+    
+}
+footer {
+    height: 14vh;
+    font-size: 16px;
+}
+body{
+    text-align: center;
+}
