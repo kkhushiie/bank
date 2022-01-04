@@ -341,12 +341,12 @@ body {
   color: white;
 }
 .card__content {
-  width: 90%;
+  width: 70%;
   height: 95%;
   background: #191a19;
   margin: 10px auto;
   border-radius: 5px;
-  padding: 20px;
+  padding: 60px;
   cursor: pointer;
   box-shadow: 16px 16px 44px #0a0a0a, -16px -16px 44px #282a28;
   transition: 0.3s all ease-in-out;
