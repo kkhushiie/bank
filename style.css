@@ -367,9 +367,11 @@ body {
   color: white;
   font-weight: bold; 
   cursor: pointer;
-/*   border: none; */
   margin: 20px;
 }
 .card__button:hover{
   text-decoration: none;
 }
+ a:hover{
+    text-decoration: none;
+  }
