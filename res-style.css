@@ -54,8 +54,11 @@ display: none;
 .card__content {
     width: 100%;
       height: 100%;
-      padding: 35px;
+      padding: 20px;
   }
+.card__button {
+    margin: 10px;
+}
 .container1{
    opacity: 0.5;
    z-index: -200;
